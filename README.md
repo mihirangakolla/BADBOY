@@ -4,10 +4,10 @@
 <div align="center">
   <img border-radius: 15px src="+94 76 311 6441 20211008_194450.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="BADBOY" src="https://img.shields.io/badge/mihirangakolla-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="badbot" src="https://img.shields.io/badge/mihirangakolla-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/mihirangakolla"><img title="Author" src="https://img.shields.io/badge/Author-mihirangakolla/BADBOY?color=black&style=for-the-badge&logo=mihirangakolla"></a>
+<a href="https://github.com/mihirangakolla"><img title="Author" src="https://img.shields.io/badge/Author-mihirangakolla/badbot?color=black&style=for-the-badge&logo=mihirangakolla"></a>
 </p>
 </div>
 <p align="center">
@@ -21,18 +21,18 @@ Project created by <a href="https://github.com/mihirangakolla">mihirangakolla</a
 ----
 
   <p align="center">
-  <a href="https://github.com/mihirangakolla/BADBOY ">
-    <img src="https://img.shields.io/github/repo-size/mihirangakolla/BADBOY?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/mihirangakolla/badbot ">
+    <img src="https://img.shields.io/github/repo-size/mihirangakolla/badbot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/mihirangakolla/followers"><img title="Followers" src="https://img.shields.io/github/followers/mihirangakolla?color=red&style=flat-circle"></a>
-<a href="https://github.com/mihirangakolla/BADBOY/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mihirangakolla/BADBOY?color=red&style=flat-square"></a>
-<a href="https://github.com/mihirangakolla/BADBOY/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mihirangakolla/BADBOY?color=red&style=flat-square"></a>
-<a href="https://github.com/mihirangakolla/BADBOY/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mihirangakolla/BADBOY?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/mihirangakolla/badbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mihirangakolla/badbot?color=red&style=flat-square"></a>
+<a href="https://github.com/mihirangakolla/badbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mihirangakolla/badbot?color=red&style=flat-square"></a>
+<a href="https://github.com/mihirangakolla/badbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mihirangakolla/badbot?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-BADBOY - BADBOY Userbot is Open Source software open to development. 
+badbot - badbot Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -56,7 +56,7 @@ the user is responsible.
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mihirangakolla/BADBOY)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mihirangakolla/badbot)
      </div>
 <br>
 <br >
